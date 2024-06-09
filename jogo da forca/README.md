@@ -2,4 +2,4 @@
 
 > Modificação necessária:
   
-* Trocar `system("clear")` para `system("cls")` na linha 24.
+* Trocar `system("clear")` para `system("cls")` na linha 62.
